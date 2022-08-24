@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  auth: YWRtaW46JGFwcjEkcnZpUGs2NlckSGVwWXRSd1pCYS5Vdm1pL3BxSzJOMQ==
+kind: Secret
+metadata:
+  creationTimestamp: null
+  name: basic-auth
