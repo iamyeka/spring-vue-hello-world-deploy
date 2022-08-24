@@ -6,7 +6,7 @@ image:
   repository: ghcr.io/iamyeka/spring-vue-hello-world-frontend
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "main"
+  tag: "0a62dab"
 imagePullSecrets:
   - name: spring-vue-hello-world
 nameOverride: ""
